@@ -2,7 +2,8 @@
 # okex-quantization
 欧易网格交易脚本
 =======
-
+特别鸣谢：https://github.com/hengxuZ/binance-quantization
+主体逻辑来自以上项目，将交易所换成了okex
 
 其中只使用到了交易所的3个api接口。
 1. 获取某个交易对的当前价格
@@ -25,7 +26,7 @@ api_secret='你的secret'
 dingding_token = '申请钉钉群助手的token'   # 强烈建议您使用 （若不会申请，请加我个人微信）
 ```
 
-如果你还没有欧易账号：[注册页面]()
+如果你还没有欧易账号：[注册页面](https://www.okex.win/join/4801149)
 
 
 
