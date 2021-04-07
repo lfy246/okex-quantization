@@ -1,0 +1,15 @@
+{
+    "runBet": {
+        "next_buy_price": 17.788509,
+        "grid_sell_price": 18.147873,
+        "step": 11
+    },
+    "config": {
+        "profit_ratio": 1,
+        "double_throw_ratio": 1,
+        "cointype": "OKB-USDT",
+        "quantity": [
+            1
+        ]
+    }
+}
